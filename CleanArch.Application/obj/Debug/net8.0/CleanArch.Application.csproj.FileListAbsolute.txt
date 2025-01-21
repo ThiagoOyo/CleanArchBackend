@@ -1,0 +1,15 @@
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.deps.json
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/bin/Debug/net8.0/CleanArch.Application.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/bin/Debug/net8.0/CleanArch.Domain.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/bin/Debug/net8.0/CleanArch.Domain.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.csproj.AssemblyReference.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.AssemblyInfoInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.AssemblyInfo.cs
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.csproj.CoreCompileInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArc.054EF71E.Up2Date
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/refint/CleanArch.Application.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/CleanArch.Application.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Application/obj/Debug/net8.0/ref/CleanArch.Application.dll

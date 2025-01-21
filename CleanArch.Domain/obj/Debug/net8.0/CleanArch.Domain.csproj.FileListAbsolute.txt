@@ -1,0 +1,11 @@
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/bin/Debug/net8.0/CleanArch.Domain.deps.json
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/bin/Debug/net8.0/CleanArch.Domain.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/bin/Debug/net8.0/CleanArch.Domain.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.AssemblyInfoInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.AssemblyInfo.cs
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/refint/CleanArch.Domain.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/CleanArch.Domain.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Domain/obj/Debug/net8.0/ref/CleanArch.Domain.dll

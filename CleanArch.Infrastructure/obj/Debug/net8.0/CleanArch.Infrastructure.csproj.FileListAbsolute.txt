@@ -1,0 +1,17 @@
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.deps.json
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Domain.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Domain.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.csproj.AssemblyReference.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.AssemblyInfoInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.AssemblyInfo.cs
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArc.9B8778E9.Up2Date
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/refint/CleanArch.Infrastructure.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.pdb
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/ref/CleanArch.Infrastructure.dll
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/bin/Debug/net8.0/CleanArch.Infrastructure.runtimeconfig.json
+/Users/thgOyo/Desktop/Dev/Dotnet/CleanArch.Infrastructure/obj/Debug/net8.0/CleanArch.Infrastructure.genruntimeconfig.cache
