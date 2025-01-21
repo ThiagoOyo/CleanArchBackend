@@ -10,8 +10,9 @@ var builder = Host.CreateDefaultBuilder(args);
 
 builder.ConfigureServices((context, services) =>
 {
-    var connectionString = context.Configuration.GetConnectionString("DefaultConnection")
-                           ?? throw new InvalidOperationException("Connection string 'DefaultConnection' is not configured.");
+    var connectionString = Environment.GetEnvironmentVariable("CONNECTION_STRING") 
+                           ?? context.Configuration.GetConnectionString("DefaultConnection")
+                           ?? throw new InvalidOperationException("Connection string is not configured in environment variables or appsettings.json.");
 
     services.AddInfrastructure(connectionString);
     services.AddHttpClient<CoinGeckoService>();

@@ -5,8 +5,9 @@ using CleanArch.WebAPI.Middleware;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddInfrastructure(
+    Environment.GetEnvironmentVariable("CONNECTION_STRING") ??
     builder.Configuration.GetConnectionString("DefaultConnection") ??
-        throw new InvalidOperationException("Connection string 'DefaultConnection' is not configured.")
+    throw new InvalidOperationException("Connection string is not configured.")
 );
 
 builder.Services.AddCors(options =>
